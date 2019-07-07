@@ -1,0 +1,3 @@
+/home/ckh/cpp_course/mytest/build_UNIX/CMakeFiles/rebuild_cache.dir
+/home/ckh/cpp_course/mytest/build_UNIX/CMakeFiles/main.out.dir
+/home/ckh/cpp_course/mytest/build_UNIX/CMakeFiles/edit_cache.dir
