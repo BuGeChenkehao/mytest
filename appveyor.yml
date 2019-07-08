@@ -1,0 +1,12 @@
+image:
+        - Visual Studio 2017
+clone_folder: c:\projects\sourse
+build_script:
+        - cmd: dir
+        - cd ./project1
+        - cmd: dir
+        - cmd: mkdir build
+        - cmd: cd build
+        - cmd: cmake ..
+        - cmd: cmake --build . --config "Debug"
+
